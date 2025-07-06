@@ -81,6 +81,7 @@ A well-designed **data model** was built following **best practices**:
 - Properly configured **relationships** between dimension and fact tables
 - Created a **Date Table** using Power Query (M Language)
 - Optimized calculated columns and measures using **DAX Studio**
+<img width="1454" height="1041" alt="Image" src="https://github.com/user-attachments/assets/4799c5e6-b9a5-40b1-a31e-bda95e7be29e" />
 
 ---
 
