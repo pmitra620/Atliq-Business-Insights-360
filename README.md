@@ -210,7 +210,7 @@ With the implementation of this analytics solution:
 
 **Purushottam Mitra**  
 📧 [pmitra620@gmail.com]  
-🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/pmitra620/))  
+🔗 [LinkedIn]([https://www.linkedin.com/in/pmitra620/])  
 📂 [Portfolio](https://yourportfolio.com)
 
 ---
