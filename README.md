@@ -4,10 +4,9 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 This repository presents a comprehensive data analytics solution designed for **AtliQ Hardware**, a rapidly growing global hardware company. The project, developed using **Power BI**, empowers stakeholders to make informed decisions across various departments — **Sales, Finance, Marketing, Supply Chain, and Executive Management**.
 
-Inspired by the [Codebasics Power BI Course](https://www.codebasics.io), this project integrates best practices in data modeling, dashboard development, DAX optimization, and Power BI service deployment.
+Inspired by the Codebasics, this project integrates best practices in data modeling, dashboard development, DAX optimization, and Power BI service deployment.
 
 > 📌 **Live Dashboard Link**: [[Click this link to view Live Dashboard here](https://app.powerbi.com/links/KrQVQWMV9Y?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=cb7108d4-6510-4a7e-ac0f-d6fb06178484)]  
-> 📁 **Course Link**: [Codebasics Power BI Course](https://www.codebasics.io)
 
 ---
 
